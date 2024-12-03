@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[310],{1522:(e,s,n)=>{Promise.resolve().then(n.bind(n,1248))},1248:(e,s,n)=>{"use strict";n.r(s),n.d(s,{default:()=>a});var r=n(5155),t=n(6756);function a(){return(0,t.changeTitle)("Restaurants & Shopping"),(0,r.jsx)("div",{})}}},e=>{var s=s=>e(e.s=s);e.O(0,[533,839,738,756,441,517,358],()=>s(1522)),_N_E=e.O()}]);
